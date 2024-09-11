@@ -76,4 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🚀 Live Demo
 
-You can view the live demo of the project here: [React Password Generator Project](react-password-generator-project-i7atiqqur.vercel.app)
+You can view the live demo of the project here: [React Password Generator Project](https://react-password-generator-project-i7atiqqur.vercel.app)
